@@ -6,6 +6,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
+    base: '/giaphahochu/', // Thay 'my-app' bằng tên repository của bạn
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
