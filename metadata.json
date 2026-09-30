@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý Gia phả Dòng họ Chu - Lãng Sơn, Yên Dũng, Bắc Giang",
+  "description": "Hệ thống quản lý gia phả dòng họ Chu tại xã Lãng Sơn, huyện Yên Dũng, tỉnh Bắc Giang. Quản lý cây phả hệ trực quan, danh sách tộc nhân, chi phái, lịch giỗ tế âm dương lịch, quỹ dòng họ, phân quyền quản trị và lưu trữ cơ sở dữ liệu XML an toàn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

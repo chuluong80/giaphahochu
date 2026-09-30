@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GiaPhaChuGia>
+  <ThongTinChung>
+    <TenDongHo>Dòng họ Chu</TenDongHo>
+    <DiaChi>Xã Lãng Sơn, Huyện Yên Dũng, Tỉnh Bắc Giang</DiaChi>
+    <NguoiKhoiTao>Cụ Thủy Tổ Chu Doãn Phúc</NguoiKhoiTao>
+    <NienDai>Khoảng thế kỷ XVII</NienDai>
+    <NhaThoTo>Nhà thờ Đại Tôn họ Chu, Thôn Đông Lãng, Xã Lãng Sơn, Huyện Yên Dũng, Bắc Giang</NhaThoTo>
+    <CauDoi>Chu tộc quang minh lưu hậu thế - Tử tôn hiếu thuận chấn gia phong</CauDoi>
+    <GiaHuan>Uống nước nhớ nguồn, hiếu thuận phụng dưỡng ông bà cha mẹ, anh em hòa thuận tương thân tương ái, khuyến học khuyến tài, rạng danh tiên tổ họ Chu đất Phượng Hoàng Lãng Sơn.</GiaHuan>
+    <LichSu>Dòng họ Chu tại xã Lãng Sơn, huyện Yên Dũng, tỉnh Bắc Giang là một dòng họ có truyền thống văn hiến lâu đời, giàu lòng yêu nước, cần cù lao động và đỗ đạt. Khởi nguồn từ Cụ Thủy Tổ Chu Doãn Phúc về khai khẩn, lập nghiệp ven dòng sông Thương thơ mộng, trải qua nhiều đời con cháu phụng sự đất nước, có nhiều bậc tiên hiền, tú tài, nghĩa sĩ và thế hệ trẻ ngày nay luôn hướng về cội nguồn.</LichSu>
+  </ThongTinChung>
+
+  <DanhSachChiPhai>
+    <ChiPhai>
+      <Id>chi-1</Id>
+      <TenChi>Chi Đại Tôn (Chi Trưởng)</TenChi>
+      <TruongChi>Chu Văn Lương</TruongChi>
+      <DiaBan>Thôn Đông Lãng, Xã Lãng Sơn</DiaBan>
+      <MoTa>Giữ gìn từ đường Đại Tôn, phụng thờ Thủy Tổ, điều hành các ngày giỗ hiệp tế hàng năm.</MoTa>
+    </ChiPhai>
+    <ChiPhai>
+      <Id>chi-2</Id>
+      <TenChi>Chi Đệ Nhị (Chi Hai)</TenChi>
+      <TruongChi>Chu Doãn Cường</TruongChi>
+      <DiaBan>Thôn Tân Mỹ, Xã Lãng Sơn</DiaBan>
+      <MoTa>Phát triển mạnh về khuyến học, công nghiệp và kinh thương, con cháu đông đúc thành đạt.</MoTa>
+    </ChiPhai>
+    <ChiPhai>
+      <Id>chi-3</Id>
+      <TenChi>Chi Đệ Tam (Chi Ba)</TenChi>
+      <TruongChi>Chu Quang Minh</TruongChi>
+      <DiaBan>Thôn Sơn Mới, Xã Lãng Sơn</DiaBan>
+      <MoTa>Truyền thống y nghiệp, giáo dục và công chức nhà nước, luôn tiên phong trong phong trào khuyến tài họ Chu.</MoTa>
+    </ChiPhai>
+  </DanhSachChiPhai>
+
+  <DanhSachThanhVien>
+    <!-- ĐỜI 1: CỤ THỦY TỔ -->
+    <ThanhVien>
+      <Id>chu-01</Id>
+      <HoVaTen>Chu Doãn Phúc</HoVaTen>
+      <TenThuongGoi>Cụ Thủy Tổ Phấn Dũng Hầu</TenThuongGoi>
+      <GioiTinh>nam</GioiTinh>
+      <TheHe>1</TheHe>
+      <ChiPhaiId>chi-1</ChiPhaiId>
+      <ThuTuTrongGiaDinh>1</ThuTuTrongGiaDinh>
+      <NamSinh>1672</NamSinh>
+      <ConSong>false</ConSong>
+      <NgayGioAm>15/01</NgayGioAm>
+      <NoiAnTang>Gò Mả Tổ, Đồng Cát, Xã Lãng Sơn, Yên Dũng, Bắc Giang</NoiAnTang>
+      <NgheNghiep>Khai canh, Tiền hiền sáng lập</NgheNghiep>
+      <DanhHieu>Cụ Thủy Tổ Họ Chu</DanhHieu>
+      <GhiChu>Cụ tổ có công lập ấp, mở mang ruộng đồng Lãng Sơn, khai thông mương tưới ven sông Thương.</GhiChu>
+    </ThanhVien>
+    <ThanhVien>
+      <Id>chu-01b</Id>
+      <HoVaTen>Trần Thị Diệu</HoVaTen>
+      <TenThuongGoi>Cụ Bà Thủy Tổ Chính Thất</TenThuongGoi>
+      <GioiTinh>nu</GioiTinh>
+      <TheHe>1</TheHe>
+      <ChiPhaiId>chi-1</ChiPhaiId>
+      <VoChongIds>chu-01</VoChongIds>
+      <ThuTuTrongGiaDinh>1</ThuTuTrongGiaDinh>
+      <NamSinh>1675</NamSinh>
+      <ConSong>false</ConSong>
+      <NgayGioAm>18/08</NgayGioAm>
+      <NoiAnTang>Khu Lăng Cụ Bà, Đồng Cát, Lãng Sơn</NoiAnTang>
+      <DanhHieu>Cụ Thủy Tổ Tỷ Từ Mẫu</DanhHieu>
+      <GhiChu>Đoan trang thục đức, phụ giúp cụ Thủy Tổ tạo dựng nếp nhà gia phong.</GhiChu>
+    </ThanhVien>
+
+    <!-- ĐỜI 2 -->
+    <ThanhVien>
+      <Id>chu-02</Id>
+      <HoVaTen>Chu Doãn Trọng</HoVaTen>
+      <TenThuongGoi>Cụ Đệ Nhị Thế Tổ (Khởi Chi Trưởng)</TenThuongGoi>
+      <GioiTinh>nam</GioiTinh>
+      <TheHe>2</TheHe>
+      <ChiPhaiId>chi-1</ChiPhaiId>
+      <ChaId>chu-01</ChaId>
+      <MeId>chu-01b</MeId>
+      <ThuTuTrongGiaDinh>1</ThuTuTrongGiaDinh>
+      <NamSinh>1703</NamSinh>
+      <ConSong>false</ConSong>
+      <NgayGioAm>10/03</NgayGioAm>
+      <NoiAnTang>Nghĩa trang Núi Chùa, Xã Lãng Sơn</NoiAnTang>
+      <NgheNghiep>Nho sinh Tiền triều, Hương trưởng</NgheNghiep>
+      <DanhHieu>Tiên Hiền Chi Đại Tôn</DanhHieu>
+      <GhiChu>Xây dựng ngôi từ đường họ Chu đầu tiên bằng gỗ lim cổ kính.</GhiChu>
+    </ThanhVien>
+    <ThanhVien>
+      <Id>chu-03</Id>
+      <HoVaTen>Chu Doãn Nghĩa</HoVaTen>
+      <TenThuongGoi>Cụ Khởi Chi Hai</TenThuongGoi>
+      <GioiTinh>nam</GioiTinh>
+      <TheHe>2</TheHe>
+      <ChiPhaiId>chi-2</ChiPhaiId>
+      <ChaId>chu-01</ChaId>
+      <MeId>chu-01b</MeId>
+      <ThuTuTrongGiaDinh>2</ThuTuTrongGiaDinh>
+      <NamSinh>1708</NamSinh>
+      <ConSong>false</ConSong>
+      <NgayGioAm>22/05</NgayGioAm>
+      <NoiAnTang>Đồng Cát, Xã Lãng Sơn</NoiAnTang>
+      <NgheNghiep>Thầy đồ dạy học</NgheNghiep>
+      <DanhHieu>Tiền Hiền Chi Đệ Nhị</DanhHieu>
+      <GhiChu>Mở lớp dạy chữ Nho đầu tiên cho con em họ Chu vùng Yên Dũng.</GhiChu>
+    </ThanhVien>
+    <ThanhVien>
+      <Id>chu-04</Id>
+      <HoVaTen>Chu Doãn Thành</HoVaTen>
+      <TenThuongGoi>Cụ Khởi Chi Ba</TenThuongGoi>
+      <GioiTinh>nam</GioiTinh>
+      <TheHe>2</TheHe>
+      <ChiPhaiId>chi-3</ChiPhaiId>
+      <ChaId>chu-01</ChaId>
+      <MeId>chu-01b</MeId>
+      <ThuTuTrongGiaDinh>3</ThuTuTrongGiaDinh>
+      <NamSinh>1715</NamSinh>
+      <ConSong>false</ConSong>
+      <NgayGioAm>05/11</NgayGioAm>
+      <NoiAnTang>Gò Vườn Già, Xã Lãng Sơn</NoiAnTang>
+      <NgheNghiep>Lương y bốc thuốc</NgheNghiep>
+      <DanhHieu>Tiền Hiền Chi Đệ Tam</DanhHieu>
+      <GhiChu>Cứu giúp dân nghèo khỏi dịch bệnh, nổi tiếng nhân từ đức độ.</GhiChu>
+    </ThanhVien>
+
+    <!-- ĐỜI 3: CHI 1 -->
+    <ThanhVien>
+      <Id>chu-05</Id>
+      <HoVaTen>Chu Văn Đắc</HoVaTen>
+      <GioiTinh>nam</GioiTinh>
+      <TheHe>3</TheHe>
+      <ChiPhaiId>chi-1</ChiPhaiId>
+      <ChaId>chu-02</ChaId>
+      <ThuTuTrongGiaDinh>1</ThuTuTrongGiaDinh>
+      <NamSinh>1738</NamSinh>
+      <ConSong>false</ConSong>
+      <NgayGioAm>12/04</NgayGioAm>
+      <NoiAnTang>Nghĩa trang Núi Chùa, Xã Lãng Sơn</NoiAnTang>
+      <NgheNghiep>Tú tài triều Lê</NgheNghiep>
+      <DanhHieu>Tú Tài Tiên Sinh</DanhHieu>
+    </ThanhVien>
+    <!-- ĐỜI 3: CHI 2 -->
+    <ThanhVien>
+      <Id>chu-06</Id>
+      <HoVaTen>Chu Doãn Khiêm</HoVaTen>
+      <GioiTinh>nam</GioiTinh>
+      <TheHe>3</TheHe>
+      <ChiPhaiId>chi-2</ChiPhaiId>
+      <ChaId>chu-03</ChaId>
+      <ThuTuTrongGiaDinh>1</ThuTuTrongGiaDinh>
+      <NamSinh>1745</NamSinh>
+      <ConSong>false</ConSong>
+      <NgayGioAm>19/09</NgayGioAm>
+      <NoiAnTang>Đồng Cát, Xã Lãng Sơn</NoiAnTang>
+      <NgheNghiep>Quan phủ doãn</NgheNghiep>
+    </ThanhVien>
+    <!-- ĐỜI 3: CHI 3 -->
+    <ThanhVien>
+      <Id>chu-07</Id>
+      <HoVaTen>Chu Quang Thuận</HoVaTen>
+      <GioiTinh>nam</GioiTinh>
+      <TheHe>3</TheHe>
+      <ChiPhaiId>chi-3</ChiPhaiId>
+      <ChaId>chu-04</ChaId>
+      <ThuTuTrongGiaDinh>1</ThuTuTrongGiaDinh>
+      <NamSinh>1750</NamSinh>
+      <ConSong>false</ConSong>
+      <NgayGioAm>02/06</NgayGioAm>
+      <NoiAnTang>Gò Vườn Già, Xã Lãng Sơn</NoiAnTang>
+      <NgheNghiep>Nho y</NgheNghiep>
+    </ThanhVien>
+
+    <!-- ĐỜI 4: CHI 1 -->
+    <ThanhVien>
+      <Id>chu-08</Id>
+      <HoVaTen>Chu Văn Thịnh</HoVaTen>
+      <GioiTinh>nam</GioiTinh>
+      <TheHe>4</TheHe>
+      <ChiPhaiId>chi-1</ChiPhaiId>
+      <ChaId>chu-05</ChaId>
+      <ThuTuTrongGiaDinh>1</ThuTuTrongGiaDinh>
+      <NamSinh>1890</NamSinh>
+      <ConSong>false</ConSong>
+      <NgayGioAm>20/07</NgayGioAm>
+      <NoiAnTang>Nghĩa trang Núi Chùa, Xã Lãng Sơn</NoiAnTang>
+      <NgheNghiep>Chánh tổng Yên Dũng</NgheNghiep>
+      <DanhHieu>Chánh Tổng Chu Tộc</DanhHieu>
+      <GhiChu>Lãnh đạo nhân dân đắp đê ngăn lũ sông Thương bảo vệ mùa màng.</GhiChu>
+    </ThanhVien>
+
+    <!-- ĐỜI 5: CHI 1 -->
+    <ThanhVien>
+      <Id>chu-09</Id>
+      <HoVaTen>Chu Văn Bình</HoVaTen>
+      <TenThuongGoi>Cụ Cửu Bình</TenThuongGoi>
+      <GioiTinh>nam</GioiTinh>
+      <TheHe>5</TheHe>
+      <ChiPhaiId>chi-1</ChiPhaiId>
+      <ChaId>chu-08</ChaId>
+      <ThuTuTrongGiaDinh>1</ThuTuTrongGiaDinh>
+      <NamSinh>1932</NamSinh>
+      <ConSong>false</ConSong>
+      <NgayGioAm>14/02</NgayGioAm>
+      <NoiAnTang>Nghĩa trang Liệt sĩ &amp; Dòng tộc Yên Dũng</NoiAnTang>
+      <NgheNghiep>Cán bộ tiền khởi nghĩa, Thương binh</NgheNghiep>
+      <DanhHieu>Lão Thành Cách Mạng</DanhHieu>
+      <GhiChu>Tham gia kháng chiến chống Pháp và chống Mỹ, huân chương kháng chiến hạng Nhất.</GhiChu>
+    </ThanhVien>
+    <ThanhVien>
+      <Id>chu-09b</Id>
+      <HoVaTen>Nguyễn Thị Mơ</HoVaTen>
+      <GioiTinh>nu</GioiTinh>
+      <TheHe>5</TheHe>
+      <ChiPhaiId>chi-1</ChiPhaiId>
+      <VoChongIds>chu-09</VoChongIds>
+      <ThuTuTrongGiaDinh>1</ThuTuTrongGiaDinh>
+      <NamSinh>1936</NamSinh>
+      <ConSong>false</ConSong>
+      <NgayGioAm>06/10</NgayGioAm>
+      <NoiAnTang>Nghĩa trang Xã Lãng Sơn</NoiAnTang>
+      <NgheNghiep>Nông nghiệp</NgheNghiep>
+    </ThanhVien>
+
+    <!-- ĐỜI 6: THẾ HỆ ĐƯƠNG ĐẠI (ADMIN & THÀNH VIÊN) -->
+    <ThanhVien>
+      <Id>chu-10</Id>
+      <HoVaTen>Chu Văn Lương</HoVaTen>
+      <TenThuongGoi>Lương</TenThuongGoi>
+      <GioiTinh>nam</GioiTinh>
+      <TheHe>6</TheHe>
+      <ChiPhaiId>chi-1</ChiPhaiId>
+      <ChaId>chu-09</ChaId>
+      <MeId>chu-09b</MeId>
+      <ThuTuTrongGiaDinh>1</ThuTuTrongGiaDinh>
+      <NamSinh>1968</NamSinh>
+      <ConSong>true</ConSong>
+      <NgheNghiep>Kỹ sư - Trưởng ban Quản trị Gia phả Chu Tộc</NgheNghiep>
+      <HocVan>Đại học Bách Khoa Hà Nội</HocVan>
+      <DiaChiHienTai>Thôn Đông Lãng, Xã Lãng Sơn, Huyện Yên Dũng, Tỉnh Bắc Giang</DiaChiHienTai>
+      <SoDienThoai>0983123456</SoDienThoai>
+      <Email>chuluong.langson@gmail.com</Email>
+      <DanhHieu>Trưởng Tộc Đương Nhiệm</DanhHieu>
+      <GhiChu>Chủ trì số hóa gia phả, kết nối bà con họ Chu trong và ngoài tỉnh Bắc Giang.</GhiChu>
+    </ThanhVien>
+    <ThanhVien>
+      <Id>chu-10b</Id>
+      <HoVaTen>Hoàng Thị Hạnh</HoVaTen>
+      <GioiTinh>nu</GioiTinh>
+      <TheHe>6</TheHe>
+      <ChiPhaiId>chi-1</ChiPhaiId>
+      <VoChongIds>chu-10</VoChongIds>
+      <ThuTuTrongGiaDinh>1</ThuTuTrongGiaDinh>
+      <NamSinh>1971</NamSinh>
+      <ConSong>true</ConSong>
+      <NgheNghiep>Giáo viên Trường THCS Lãng Sơn</NgheNghiep>
+      <HocVan>Đại học Sư phạm</HocVan>
+      <DiaChiHienTai>Xã Lãng Sơn, Huyện Yên Dũng, Tỉnh Bắc Giang</DiaChiHienTai>
+      <SoDienThoai>0972654321</SoDienThoai>
+      <Email>hoanghanh.langson@gmail.com</Email>
+    </ThanhVien>
+    <ThanhVien>
+      <Id>chu-11</Id>
+      <HoVaTen>Chu Văn Hải</HoVaTen>
+      <GioiTinh>nam</GioiTinh>
+      <TheHe>6</TheHe>
+      <ChiPhaiId>chi-1</ChiPhaiId>
+      <ChaId>chu-09</ChaId>
+      <MeId>chu-09b</MeId>
+      <ThuTuTrongGiaDinh>2</ThuTuTrongGiaDinh>
+      <NamSinh>1973</NamSinh>
+      <ConSong>true</ConSong>
+      <NgheNghiep>Bác sĩ Chuyên khoa II - Bệnh viện Đa khoa Bắc Giang</NgheNghiep>
+      <HocVan>Đại học Y Hà Nội</HocVan>
+      <DiaChiHienTai>TP. Bắc Giang, Tỉnh Bắc Giang</DiaChiHienTai>
+      <SoDienThoai>0912345678</SoDienThoai>
+      <DanhHieu>Thầy thuốc Ưu tú</DanhHieu>
+    </ThanhVien>
+
+    <!-- ĐỜI 7: CON CHÁU TIẾP NỐI -->
+    <ThanhVien>
+      <Id>chu-12</Id>
+      <HoVaTen>Chu Đức Minh</HoVaTen>
+      <GioiTinh>nam</GioiTinh>
+      <TheHe>7</TheHe>
+      <ChiPhaiId>chi-1</ChiPhaiId>
+      <ChaId>chu-10</ChaId>
+      <MeId>chu-10b</MeId>
+      <ThuTuTrongGiaDinh>1</ThuTuTrongGiaDinh>
+      <NamSinh>1996</NamSinh>
+      <ConSong>true</ConSong>
+      <NgheNghiep>Chuyên gia Công nghệ Thông tin</NgheNghiep>
+      <HocVan>Thạc sĩ Khoa học Máy tính</HocVan>
+      <DiaChiHienTai>Cầu Giấy, Hà Nội</DiaChiHienTai>
+      <SoDienThoai>0988776655</SoDienThoai>
+      <Email>chuducminh@gmail.com</Email>
+      <GhiChu>Phụ trách kỹ thuật nền tảng gia phả số dòng họ Chu.</GhiChu>
+    </ThanhVien>
+    <ThanhVien>
+      <Id>chu-13</Id>
+      <HoVaTen>Chu Thùy Linh</HoVaTen>
+      <GioiTinh>nu</GioiTinh>
+      <TheHe>7</TheHe>
+      <ChiPhaiId>chi-1</ChiPhaiId>
+      <ChaId>chu-10</ChaId>
+      <MeId>chu-10b</MeId>
+      <ThuTuTrongGiaDinh>2</ThuTuTrongGiaDinh>
+      <NamSinh>2001</NamSinh>
+      <ConSong>true</ConSong>
+      <NgheNghiep>Dược sĩ</NgheNghiep>
+      <HocVan>Đại học Dược Hà Nội</HocVan>
+      <DiaChiHienTai>TP. Bắc Giang</DiaChiHienTai>
+      <SoDienThoai>0966554433</SoDienThoai>
+    </ThanhVien>
+
+    <!-- CHI 2 ĐƯƠNG ĐẠI -->
+    <ThanhVien>
+      <Id>chu-14</Id>
+      <HoVaTen>Chu Doãn Cường</HoVaTen>
+      <GioiTinh>nam</GioiTinh>
+      <TheHe>6</TheHe>
+      <ChiPhaiId>chi-2</ChiPhaiId>
+      <ThuTuTrongGiaDinh>1</ThuTuTrongGiaDinh>
+      <NamSinh>1965</NamSinh>
+      <ConSong>true</ConSong>
+      <NgheNghiep>Doanh nhân, Trưởng Chi Hai</NgheNghiep>
+      <DiaChiHienTai>Thôn Tân Mỹ, Xã Lãng Sơn, Yên Dũng</DiaChiHienTai>
+      <SoDienThoai>0903222111</SoDienThoai>
+      <GhiChu>Thường xuyên tài trợ quỹ khuyến học và tu bổ từ đường.</GhiChu>
+    </ThanhVien>
+    <ThanhVien>
+      <Id>chu-15</Id>
+      <HoVaTen>Chu Quang Minh</HoVaTen>
+      <GioiTinh>nam</GioiTinh>
+      <TheHe>6</TheHe>
+      <ChiPhaiId>chi-3</ChiPhaiId>
+      <ThuTuTrongGiaDinh>1</ThuTuTrongGiaDinh>
+      <NamSinh>1970</NamSinh>
+      <ConSong>true</ConSong>
+      <NgheNghiep>Hiệu trưởng Trường Tiểu học, Trưởng Chi Ba</NgheNghiep>
+      <DiaChiHienTai>Thôn Sơn Mới, Xã Lãng Sơn, Yên Dũng</DiaChiHienTai>
+      <SoDienThoai>0914999888</SoDienThoai>
+      <GhiChu>Thành viên Ban liên lạc Hội đồng gia tộc họ Chu Bắc Giang.</GhiChu>
+    </ThanhVien>
+  </DanhSachThanhVien>
+
+  <LichGioTe>
+    <SuKien>
+      <Id>sk-01</Id>
+      <TenLe>Đại lễ Giỗ Cụ Thủy Tổ Chu Doãn Phúc &amp; Hiệp tế Xuân</TenLe>
+      <LoaiSuKien>gio_to</LoaiSuKien>
+      <NgayAmLich>15 tháng Giêng</NgayAmLich>
+      <NgayDuongLichNamNay>2026-03-03</NgayDuongLichNamNay>
+      <DiaDiem>Nhà thờ Đại Tôn họ Chu, Thôn Đông Lãng, Xã Lãng Sơn</DiaDiem>
+      <NguoiChuTri>Chu Văn Lương (Trưởng Tộc)</NguoiChuTri>
+      <NoiDung>Toàn thể con cháu nội ngoại tề tựu dâng hương, ôn lại truyền thống dòng họ, trao thưởng khuyến học cho các cháu học sinh giỏi và thông qua báo cáo thu chi quỹ họ.</NoiDung>
+      <NhacNhoTruocNgay>7</NhacNhoTruocNgay>
+      <DaGuiThongBao>true</DaGuiThongBao>
+    </SuKien>
+    <SuKien>
+      <Id>sk-02</Id>
+      <TenLe>Lễ Giỗ Cụ Đệ Nhị Thế Tổ Chu Doãn Trọng (Chi Đại Tôn)</TenLe>
+      <LoaiSuKien>gio_to_chi</LoaiSuKien>
+      <NgayAmLich>10 tháng Ba</NgayAmLich>
+      <NgayDuongLichNamNay>2026-04-26</NgayDuongLichNamNay>
+      <DiaDiem>Từ đường Chi Đại Tôn, Xã Lãng Sơn</DiaDiem>
+      <NguoiChuTri>Chu Văn Lương</NguoiChuTri>
+      <NoiDung>Con cháu Chi Trưởng làm lễ tưởng niệm, dâng lễ cúng chay - mặn, thụ lộc đoàn kết.</NoiDung>
+      <NhacNhoTruocNgay>5</NhacNhoTruocNgay>
+      <DaGuiThongBao>false</DaGuiThongBao>
+    </SuKien>
+    <SuKien>
+      <Id>sk-03</Id>
+      <TenLe>Lễ Tảo Mộ Tiết Thanh Minh Họ Chu</TenLe>
+      <LoaiSuKien>tao_mo</LoaiSuKien>
+      <NgayAmLich>Tiết Thanh Minh (Đầu tháng Ba âm)</NgayAmLich>
+      <NgayDuongLichNamNay>2026-04-05</NgayDuongLichNamNay>
+      <DiaDiem>Khu lăng mộ tổ Gò Mả Cát và Nghĩa trang Núi Chùa Lãng Sơn</DiaDiem>
+      <NguoiChuTri>Ban Thường trực Hội đồng gia tộc</NguoiChuTri>
+      <NoiDung>Các chi phái tập hợp dọn dẹp, phát quang, thắp nén tâm hương tưởng nhớ tiên tổ tiền bối họ Chu.</NoiDung>
+      <NhacNhoTruocNgay>7</NhacNhoTruocNgay>
+      <DaGuiThongBao>true</DaGuiThongBao>
+    </SuKien>
+    <SuKien>
+      <Id>sk-04</Id>
+      <TenLe>Lễ Giỗ Cụ Bà Thủy Tổ Trần Thị Diệu</TenLe>
+      <LoaiSuKien>gio_to</LoaiSuKien>
+      <NgayAmLich>18 tháng Tám</NgayAmLich>
+      <NgayDuongLichNamNay>2026-09-28</NgayDuongLichNamNay>
+      <DiaDiem>Nhà thờ Đại Tôn họ Chu, Xã Lãng Sơn</DiaDiem>
+      <NguoiChuTri>Chu Văn Lương &amp; Ban Trị sự dòng họ</NguoiChuTri>
+      <NoiDung>Lễ giỗ Cụ Bà Thủy Tổ, con cháu dâng lễ vật báo công, tạ ơn đức hy sinh tần tảo của Mẫu tổ.</NoiDung>
+      <NhacNhoTruocNgay>5</NhacNhoTruocNgay>
+      <DaGuiThongBao>false</DaGuiThongBao>
+    </SuKien>
+  </LichGioTe>
+
+  <QuyDongHo>
+    <SoDuHienTai>86500000</SoDuHienTai>
+    <DanhSachGiaoDich>
+      <GiaoDich>
+        <Id>gd-01</Id>
+        <Ngay>2026-01-15</Ngay>
+        <Loai>thu</Loai>
+        <SoTien>25000000</SoTien>
+        <NguoiGiaoDich>Chu Doãn Cường (Chi Hai)</NguoiGiaoDich>
+        <NoiDung>Công đức quỹ khuyến học họ Chu năm 2026</NoiDung>
+        <NguoiPheDuyet>Chu Văn Lương</NguoiPheDuyet>
+      </GiaoDich>
+      <GiaoDich>
+        <Id>gd-02</Id>
+        <Ngay>2026-02-28</Ngay>
+        <Loai>thu</Loai>
+        <SoTien>45000000</SoTien>
+        <NguoiGiaoDich>Toàn thể tộc nhân 3 Chi phái đóng góp định kỳ</NguoiGiaoDich>
+        <NoiDung>Thu quỹ họ thường niên chuẩn bị Giỗ tổ rằm tháng Giêng</NoiDung>
+        <NguoiPheDuyet>Chu Văn Lương</NguoiPheDuyet>
+      </GiaoDich>
+      <GiaoDich>
+        <Id>gd-03</Id>
+        <Ngay>2026-03-04</Ngay>
+        <Loai>chi</Loai>
+        <SoTien>18500000</SoTien>
+        <NguoiGiaoDich>Ban Khánh tiết Nhà thờ Họ</NguoiGiaoDich>
+        <NoiDung>Chi phí lễ vật, cỗ mâm cúng giỗ Cụ Thủy Tổ rằm tháng Giêng</NoiDung>
+        <NguoiPheDuyet>Chu Văn Lương</NguoiPheDuyet>
+      </GiaoDich>
+      <GiaoDich>
+        <Id>gd-04</Id>
+        <Ngay>2026-03-04</Ngay>
+        <Loai>chi</Loai>
+        <SoTien>8000000</SoTien>
+        <NguoiGiaoDich>Ban Khuyến học Chu Tộc</NguoiGiaoDich>
+        <NoiDung>Trao học bổng &amp; phần thưởng cho 16 con em đạt thành tích học sinh giỏi năm học</NoiDung>
+        <NguoiPheDuyet>Chu Quang Minh</NguoiPheDuyet>
+      </GiaoDich>
+      <GiaoDich>
+        <Id>gd-05</Id>
+        <Ngay>2026-03-20</Ngay>
+        <Loai>thu</Loai>
+        <SoTien>15000000</SoTien>
+        <NguoiGiaoDich>Chu Đức Minh (Hà Nội)</NguoiGiaoDich>
+        <NoiDung>Công đức số hóa gia phả và hệ thống lưu trữ XML</NoiDung>
+        <NguoiPheDuyet>Chu Văn Lương</NguoiPheDuyet>
+      </GiaoDich>
+    </DanhSachGiaoDich>
+  </QuyDongHo>
+
+  <DanhSachTaiKhoan>
+    <TaiKhoan>
+      <Id>usr-01</Id>
+      <Username>chuluong</Username>
+      <Password>Admin@123456</Password>
+      <HoTen>Chu Văn Lương</HoTen>
+      <Role>admin</Role>
+      <Email>chuluong.langson@gmail.com</Email>
+      <Sdt>0983123456</Sdt>
+      <NgayTao>2026-01-01</NgayTao>
+      <TrangThai>active</TrangThai>
+    </TaiKhoan>
+    <TaiKhoan>
+      <Id>usr-02</Id>
+      <Username>chucuong</Username>
+      <Password>Cuong@ChuGia123</Password>
+      <HoTen>Chu Doãn Cường</HoTen>
+      <Role>moderator</Role>
+      <Email>chucuong.langson@gmail.com</Email>
+      <Sdt>0903222111</Sdt>
+      <NgayTao>2026-01-10</NgayTao>
+      <TrangThai>active</TrangThai>
+    </TaiKhoan>
+    <TaiKhoan>
+      <Id>usr-03</Id>
+      <Username>chuminh</Username>
+      <Password>Minh@ChuGia123</Password>
+      <HoTen>Chu Quang Minh</HoTen>
+      <Role>moderator</Role>
+      <Email>chuminh.langson@gmail.com</Email>
+      <Sdt>0914999888</Sdt>
+      <NgayTao>2026-01-15</NgayTao>
+      <TrangThai>active</TrangThai>
+    </TaiKhoan>
+    <TaiKhoan>
+      <Id>usr-04</Id>
+      <Username>tocnhan</Username>
+      <Password>ChuGia@2026</Password>
+      <HoTen>Đại diện Tộc nhân Họ Chu</HoTen>
+      <Role>member</Role>
+      <Email>tocnhan.chugia@gmail.com</Email>
+      <Sdt>0988000111</Sdt>
+      <NgayTao>2026-02-01</NgayTao>
+      <TrangThai>active</TrangThai>
+    </TaiKhoan>
+  </DanhSachTaiKhoan>
+
+  <NhatKyThaoTac>
+    <NhatKy>
+      <Id>log-01</Id>
+      <ThoiGian>2026-03-01T08:00:00Z</ThoiGian>
+      <NguoiThucHien>chuluong</NguoiThucHien>
+      <HanhDong>KhoiTaoGiaPhaXML</HanhDong>
+      <ChiTiet>Khởi tạo cơ sở dữ liệu XML dòng họ Chu Lãng Sơn, Bắc Giang</ChiTiet>
+    </NhatKy>
+    <NhatKy>
+      <Id>log-02</Id>
+      <ThoiGian>2026-03-03T10:30:00Z</ThoiGian>
+      <NguoiThucHien>chuluong</NguoiThucHien>
+      <HanhDong>GuiThongBaoGioTo</HanhDong>
+      <ChiTiet>Gửi thông báo SMS/Email Đại lễ Giỗ Cụ Thủy Tổ tới 150 tộc nhân</ChiTiet>
+    </NhatKy>
+  </NhatKyThaoTac>
+</GiaPhaChuGia>

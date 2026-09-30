@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --lacquer-dark: #1b0a08;
+    --lacquer-deep: #2a0c0a;
+    --lacquer-red: #721c17;
+    --lacquer-crimson: #991b1b;
+    --lacquer-amber: #d97706;
+    --lacquer-gold: #eab308;
+    --lacquer-parchment: #f9f5ec;
+    --lacquer-card: #251210;
+    --lacquer-border: #4d2320;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: #170a08;
+    color: #f7f2e8;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-heritage {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+
+  .font-seal {
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.05em;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #1f0d0a;
+}
+::-webkit-scrollbar-thumb {
+  background: #5c231f;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8b342e;
+}
+
+/* Patterned Backgrounds */
+.bg-viet-pattern {
+  background-color: #1a0b09;
+  background-image: radial-gradient(rgba(217, 119, 6, 0.08) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+.bg-wood-lacquer {
+  background: linear-gradient(180deg, #2a0e0b 0%, #1c0806 100%);
+  border: 1px solid #4a1d19;
+}
+
+.text-gold-gradient {
+  background: linear-gradient(135deg, #fef08a 0%, #d97706 70%, #b45309 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Genealogy tree node connectors */
+.tree-node-wrapper {
+  position: relative;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Printing styles for PDF/Reports */
+@media print {
+  body {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+}
